@@ -1,16 +1,28 @@
-# built_in_explicit_animations
+# Built-in Explicit Animations
 
-A new Flutter project.
+A showcase of Flutter's explicit animations: slide, scale, size, rotation, position, decoration and text-style transitions.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+A catalogue of Flutter's built-in explicit animation widgets, each driven by an `AnimationController`.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Slide, scale, size and rotation transitions
+- Position and decorated-box transitions
+- Text-style transitions and a 'shattered' composite animation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech stack
+
+Flutter · Dart
+
+## Getting started
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+*This is a focused practice project. For production work, see my [GitHub profile](https://github.com/DevWahabBaloch).*
